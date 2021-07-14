@@ -11,7 +11,7 @@
 ## Laboratorio 5
 * link
 ## Laboratorio 6
-* link
+* [Link](https://github.com/afarangurens/MetNumUN2021I/edit/lab6)
 ## Laboratorio 7
 * link
 ## Laboratorio 8
