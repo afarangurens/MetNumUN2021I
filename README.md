@@ -15,7 +15,7 @@
 ## Laboratorio 7
 * link
 ## Laboratorio 8
-* link
+* [Link](https://github.com/afarangurens/MetNumUN2021I/tree/lab8)
 ## Laboratorio 9
 * link
 ## Laboratorio 10
